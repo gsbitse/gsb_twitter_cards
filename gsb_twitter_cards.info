@@ -4,4 +4,3 @@ package = GSB
 core = 7.x
 
 dependencies[] = metatag
-
