@@ -1,7 +1,8 @@
 <?php
 
 function gsb_twitter_cards_metatag_config_default() {
-  $configs = array();
+ 
+	$configs = array();
 
 	$config = new stdClass();
 	$config->disabled = FALSE; /* Edit this to true to make a default config disabled initially */
@@ -14,4 +15,5 @@ function gsb_twitter_cards_metatag_config_default() {
 	);
 
   return $configs;
+
 }
