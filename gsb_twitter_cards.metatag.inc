@@ -1,7 +1,6 @@
 <?php
 
 function gsb_twitter_cards_metatag_config_default() {
- 
 	$configs = array();
 
 	$config = new stdClass();
@@ -15,5 +14,4 @@ function gsb_twitter_cards_metatag_config_default() {
 	);
 
   return $configs;
-
 }
