@@ -3,5 +3,5 @@ description = Creates metatags for GSB Twitter Cards
 package = GSB
 core = 7.x
 
-dependencies[] = metatags
+dependencies[] = metatag
 
